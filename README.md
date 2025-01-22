@@ -7,17 +7,19 @@
 
 # Expenses-Tracker-WebApp
 ## Overview
-The Expenses Tracker App is a robust financial management solution developed using cutting-edge technologies such as Spring Boot, Spring Security, and MySQL. With user authentication and authorization features, users can securely sign up, sign in, and perform CRUD operations on their expenses. The app's intuitive interface, powered by Thymeleaf and Bootstrap, ensures a seamless user experience. The filtering functionality allows users to efficiently organize and analyze their financial data. Explore the power of streamlined expense tracking and financial control with this feature-rich application.<br> (Screenshots below for more illustration)
+The Expenses Tracker App is a robust financial management solution developed using cutting-edge technologies such as Spring Boot, Spring Security, and MySQL. With user authentication and authorization features, users can securely sign up, sign in, and perform CRUD operations on their expenses. The app's intuitive interface, powered by Thymeleaf and Bootstrap, ensures a seamless user experience. The filtering functionality allows users to efficiently organize and analyze their financial data. Explore the power of streamlined expense tracking and financial control with this feature-rich application.<br> 
 
 ## Technologies Used
-- Java
-- Spring boot
-- Spring MVC
-- Spring Security
-- Spring Data (JPA)
-- MySQL
-- Thymeleaf
-- Bootstrap
+
+- **Java** - The core programming language for backend development.
+- **Spring Boot** - Framework for building the backend.
+- **Spring MVC** - Used for the model-view-controller architecture.
+- **Spring Security** - Provides user authentication and authorization.
+- **Spring Data JPA** - For database interaction and ORM.
+- **MySQL** - Database used for storing user and expense data.
+- **Thymeleaf** - Template engine for rendering dynamic content.
+- **Bootstrap** - Frontend framework for responsive and mobile-friendly UI.
+
 
 ## Features
 - **User Authentication and Authorization:** Securely sign up, sign in, and access the app with built-in authentication and authorization.
@@ -26,7 +28,7 @@ The Expenses Tracker App is a robust financial management solution developed usi
 
 ## Getting Started
 1. **Clone the Repository:**
-`git clone https://github.com/your-username/expenses-tracker.git`
+`git clone https://github.com/RaveenaBoopathy/Expense-Tracker.git`
 
 2. **Configure Database:**
 Set up MySQL database and update the application.properties file with your database configuration.
@@ -36,20 +38,10 @@ Build the project using your preferred IDE or with Maven:
 `mvn clean install`.
 
 4. **Run the application:**
-`java -jar target/expenses-tracker.jar`.
+`ExpenseTrackerApllication.java`.
 
 5. **Access the App:**
-Open your web browser and navigate to `http://localhost:8080`.
-
-## ScreenShots
-![Example Image](screenshots/1.png) <br>
-![Example Image](screenshots/2-2.png) <br>
-![Example Image](screenshots/3-3.png) <br>
-![Example Image](screenshots/4-4.png) <br>
-![Example Image](screenshots/5-5.png) <br>
-![Example Image](screenshots/6-6.png) <br>
-![Example Image](screenshots/7.png) <br>
-![Example Image](screenshots/8.png) <br>
+Open your web browser and navigate to `http://localhost:8081`.
 
 ## Contributions
 Contributions are welcome! If you find a bug or have suggestions for improvement, feel free to open an issue or create a pull request.
