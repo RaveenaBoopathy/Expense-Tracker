@@ -31,11 +31,19 @@ Clone the repository to your local machine using the following command:
 ```bash
 git clone https://github.com/RaveenaBoopathy/Expense-Tracker.git
 
-Step 2: Configure Database
-Install MySQL if not already installed.
-Create a new database in MySQL.
-Update the application.properties file in the project with your MySQL database credentials, including:
-spring.datasource.url
-spring.datasource.username
-spring.datasource.password
-spring.datasource.driver-class-name
+mvn clean install
+
+mvn spring-boot:run
+
+Open a browser and navigate to http://localhost:8081 to use the application.
+
+
+This version now includes:
+
+- **Step 2** for configuring the database with MySQL.
+- **Step 3** for building and running the application using Maven.
+- **Step 4** for accessing the application in the browser.
+
+Make sure to update the screenshots with actual paths or URLs.
+
+
