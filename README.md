@@ -1,5 +1,5 @@
 ![Language](https://img.shields.io/badge/language-Java%20-red.svg)
-![Technologies](https://img.shields.io/badge/technologies-Spring_boot%20-grey.svg)
+![Technologies](https://img.shields.io/badge/technologies-Spring_boot%20-yellow.svg)
 ![Technologies](https://img.shields.io/badge/technologies-Spring_MVC%20-orange.svg)
 ![Technologies](https://img.shields.io/badge/technologies-Spring_Security%20-green.svg)
 ![Technologies](https://img.shields.io/badge/technologies-Spring_Data_jpa%20-blue.svg)
