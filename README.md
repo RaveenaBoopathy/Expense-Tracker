@@ -31,19 +31,5 @@ Clone the repository to your local machine using the following command:
 ```bash
 git clone https://github.com/RaveenaBoopathy/Expense-Tracker.git
 
-mvn clean install
-
-mvn spring-boot:run
-
-Open a browser and navigate to http://localhost:8081 to use the application.
-
-
-This version now includes:
-
-- **Step 2** for configuring the database with MySQL.
-- **Step 3** for building and running the application using Maven.
-- **Step 4** for accessing the application in the browser.
-
-Make sure to update the screenshots with actual paths or URLs.
 
 
